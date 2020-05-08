@@ -11,5 +11,5 @@ Nesse primeira parte já estão inseridos os componetes básicos e já tem algum
 - O Barramento está um pouco confudo, mas vou concertar ainda 
 
 Lista de que ta faltando
-* A UC ainda foi construida, porém precisa de umas melhorias
+* A UC já foi construida, porém precisa de umas melhorias
 * O resultado não está voltando pra RAM
